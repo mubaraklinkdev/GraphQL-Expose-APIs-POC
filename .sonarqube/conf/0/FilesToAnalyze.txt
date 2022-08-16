@@ -1,0 +1,17 @@
+﻿D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\IService\IDepartmentService.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\IService\IStudentService.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\Models\Department.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\Models\Student.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\Program.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\Services\DepartmentService.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\Services\DepartmentType.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\Services\StudentService.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\Services\StudentType.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\obj\Debug\net6.0\GraphQL.GlobalUsings.g.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\obj\Debug\net6.0\GraphQL.AssemblyInfo.cs
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\appsettings.Development.json
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\appsettings.json
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\.gitattributes
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\.gitignore
+D:\PJs\POC\NUPCO\GraphQL_Expose_APIS_POC\Properties\launchSettings.json
